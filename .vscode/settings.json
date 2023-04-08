@@ -1,6 +1,6 @@
 {
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
-    "cmake.sourceDirectory": "${workspaceFolder}/C-Plus-Plus",
+    "cmake.sourceDirectory": "/workspaces/cpp_library_cmake_practice/cpp_practice",
     "files.associations": {
         "iosfwd": "cpp"
     }
