@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.sourceDirectory": "${workspaceFolder}/C-Plus-Plus",
+    "files.associations": {
+        "iosfwd": "cpp"
+    }
+}
